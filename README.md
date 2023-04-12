@@ -1,8 +1,5 @@
 # Women's Networking App for Emergency Situations
 
-Highlighted in yellow - Technical specifications required for MVP at hackathon
-Not highlighted in yellow - Technical specifications for the full version of the app
-
 ## Technical Specifications
 
 - The app must track geolocation in both online and offline mode with user permission
