@@ -1,5 +1,31 @@
 # Women's Networking App for Emergency Situations
 
+# Project Description: Women's Networking App for Emergency Situations
+
+This project aims to develop a mobile application that focuses on providing a networking platform for women, assisting them during emergency situations. The application will track the user's geolocation, enable communication between users, and provide a quick and efficient way to alert trusted contacts and security services during emergencies.
+
+## Key Features
+
+- Geolocation tracking in both online and offline mode
+- Users can add each other as friends
+- Sharing of geolocation data with other users who have the same app (with permission)
+- Access to user's contacts and the ability to add trusted contacts
+- Emergency button with various press and hold options for different actions
+- Integration with Google Maps for displaying and tracking user's geolocation
+- In-app purchases for unlocking additional features
+- User profiles with personal information (first name, last name, nickname, phone number, email)
+
+## Application Components
+
+The application consists of the following main components:
+
+1. Main Page: Contains a map (Google Maps), emergency button, menu button, profile button, and add contacts button.
+2. Contacts Page: Features a search bar, trusted contacts header, list of contacts, separate list of added contacts, and a button to return to the main page.
+3. Profile Page: Displays profile photo, user data (first name, last name, nickname, phone number, email), and a button to return to the main page.
+
+This project is designed to be an MVP (Minimum Viable Product) for a hackathon, with plans to expand its features and functionality in the full version of the application.
+
+
 ## Technical Specifications
 
 - The app must track geolocation in both online and offline mode with user permission
