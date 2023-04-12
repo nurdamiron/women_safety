@@ -1,4 +1,4 @@
-# README: Women's Networking App for Emergency Situations
+# Women's Networking App for Emergency Situations
 
 Highlighted in yellow - Technical specifications required for MVP at hackathon
 Not highlighted in yellow - Technical specifications for the full version of the app
