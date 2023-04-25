@@ -1,4 +1,3 @@
-# Women's Networking App for Emergency Situations
 
 # Project Description: Women's Networking App for Emergency Situations
 
